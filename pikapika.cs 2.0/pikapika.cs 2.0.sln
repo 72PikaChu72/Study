@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pikapika.cs 2.0", "pikapika.cs 2.0.csproj", "{3203C75E-A99B-43FC-837D-2F733E8270BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3203C75E-A99B-43FC-837D-2F733E8270BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3203C75E-A99B-43FC-837D-2F733E8270BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3203C75E-A99B-43FC-837D-2F733E8270BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3203C75E-A99B-43FC-837D-2F733E8270BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD43BF59-2FF0-444A-BB23-9E58E6663970}
+	EndGlobalSection
+EndGlobal

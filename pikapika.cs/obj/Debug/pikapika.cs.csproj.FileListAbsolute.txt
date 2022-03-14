@@ -1,0 +1,28 @@
+C:\Users\Студент.MOD\source\repos\pikapika.cs\obj\Debug\pikapika.cs.csproj.AssemblyReference.cache
+C:\Users\Студент.MOD\source\repos\pikapika.cs\obj\Debug\pikapika.cs.csproj.CoreCompileInputs.cache
+C:\Users\Студент.MOD\source\repos\pikapika.cs\bin\Debug\pikapika.cs.exe.config
+C:\Users\Студент.MOD\source\repos\pikapika.cs\bin\Debug\pikapika.cs.exe
+C:\Users\Студент.MOD\source\repos\pikapika.cs\bin\Debug\pikapika.cs.pdb
+C:\Users\Студент.MOD\source\repos\pikapika.cs\obj\Debug\pikapika.cs.exe
+C:\Users\Студент.MOD\source\repos\pikapika.cs\obj\Debug\pikapika.cs.pdb
+D:\pikapika.cs\bin\Debug\pikapika.cs.exe.config
+D:\pikapika.cs\bin\Debug\pikapika.cs.exe
+D:\pikapika.cs\bin\Debug\pikapika.cs.pdb
+D:\pikapika.cs\obj\Debug\pikapika.cs.csproj.AssemblyReference.cache
+D:\pikapika.cs\obj\Debug\pikapika.cs.csproj.CoreCompileInputs.cache
+D:\pikapika.cs\obj\Debug\pikapika.cs.exe
+D:\pikapika.cs\obj\Debug\pikapika.cs.pdb
+C:\Users\PikaChu72\Desktop\pikapika.cs\bin\Debug\pikapika.cs.exe.config
+C:\Users\PikaChu72\Desktop\pikapika.cs\bin\Debug\pikapika.cs.exe
+C:\Users\PikaChu72\Desktop\pikapika.cs\bin\Debug\pikapika.cs.pdb
+C:\Users\PikaChu72\Desktop\pikapika.cs\obj\Debug\pikapika.cs.csproj.AssemblyReference.cache
+C:\Users\PikaChu72\Desktop\pikapika.cs\obj\Debug\pikapika.cs.csproj.CoreCompileInputs.cache
+C:\Users\PikaChu72\Desktop\pikapika.cs\obj\Debug\pikapika.cs.exe
+C:\Users\PikaChu72\Desktop\pikapika.cs\obj\Debug\pikapika.cs.pdb
+C:\Users\72vla\Desktop\VS projects\C#\pikapika.cs\bin\Debug\pikapika.cs.exe.config
+C:\Users\72vla\Desktop\VS projects\C#\pikapika.cs\bin\Debug\pikapika.cs.exe
+C:\Users\72vla\Desktop\VS projects\C#\pikapika.cs\bin\Debug\pikapika.cs.pdb
+C:\Users\72vla\Desktop\VS projects\C#\pikapika.cs\obj\Debug\pikapika.cs.csproj.AssemblyReference.cache
+C:\Users\72vla\Desktop\VS projects\C#\pikapika.cs\obj\Debug\pikapika.cs.csproj.CoreCompileInputs.cache
+C:\Users\72vla\Desktop\VS projects\C#\pikapika.cs\obj\Debug\pikapika.cs.exe
+C:\Users\72vla\Desktop\VS projects\C#\pikapika.cs\obj\Debug\pikapika.cs.pdb
